@@ -10,6 +10,10 @@ lessons/
 Java Fundamentals/
 Software Testing Fundamentals/
 Technical Introduction/
+ee/
+Java Advanced Features/.idea/uiDesigner.xml
+Java Advanced Features/src/collections/
+
 
 # User-specific stuff
 .idea/**/workspace.xml
